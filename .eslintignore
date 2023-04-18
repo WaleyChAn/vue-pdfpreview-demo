@@ -1,0 +1,5 @@
+/build/
+/config/
+/dist/
+/src/components/relation-graph/*
+/*.js
