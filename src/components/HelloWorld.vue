@@ -21,7 +21,8 @@
 export default {
   data () {
     return {
-      pdfUrl: `${location.origin}/static/test.pdf`,
+      // pdfUrl: `${location.origin}/static/test.pdf`,
+      pdfUrl: `${location.origin}/vue-pdfpreview-demo/static/test.pdf`,
       pageNumber: 3,
       searchText: '工时登记',
       jspdfWindow: null
